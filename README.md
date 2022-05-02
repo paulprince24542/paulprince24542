@@ -2,8 +2,4 @@
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulprince24542&show_icons=true&theme=onedark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulprince24542&repo=Teleo-Backend)](https://github.com/paulprince24542/Teleo-Backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulprince24542&repo=Uplift)](https://github.com/paulprince24542/Uplift)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulprince24542&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulprince24542&langs_count=10&layout=compact&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5" />
